@@ -11,6 +11,7 @@ public class GitDemo01 {
         System.out.println("pushtset");
         System.out.println("pushtset02");
         System.out.println("pushtset03");
+        System.out.println("pulltest");
 
 
     }
