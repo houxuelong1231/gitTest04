@@ -4,6 +4,7 @@ public class GitDemo01 {
         System.out.println("hot-fix");
         System.out.println("hot-fix02");
         System.out.println("hot-fix03");
+        System.out.println("master01");
         System.out.println("hot-fix04");
 
     }
